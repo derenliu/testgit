@@ -11,3 +11,6 @@ xinzeng2
 
 
 test fetch
+
+
+test nscc git
